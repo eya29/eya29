@@ -19,12 +19,10 @@ I'm a junior AI Engineer focused on Machine Learning, Generative AI, and Compute
 - **Computer Vision:** OpenCV, YOLO, SAM, image segmentation, image restoration
 - **Backend & APIs:** FastAPI, Flask, Node.js, REST APIs
 - **Automation & Tools:** n8n, Docker, Git, GitHub
-- **Web Development:** React, Next.js
 
 
 ### 📫 Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/eya-younes/
-- **Portfolio:** https://eyayounesportfolio.netlify.app/
 - **Email:** eyayounes29@gmail.com
 
